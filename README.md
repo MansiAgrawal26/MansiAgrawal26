@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Mansi Agrawal </h1>
-<h3 align="center">A Data Analyst📊 </h3>
+<h3 align="center">Data Analyst📊 </h3>
 
 - 🔭 I'm dedicated to continuous learning, currently delving deeper into the Data Analytics.
 - 🌱 I’m currently upskilling myself
