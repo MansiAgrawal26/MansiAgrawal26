@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋, I'm Mansi Agrawal </h1>
-<--<h3 align="center">Data Analyst📊 </h3>-->
 
 - 🔭 I'm dedicated to continuous learning, currently delving deeper into the Data Analytics.
 - 🧰 My skill set includes SQL, Python, Power BI, DAX, Power Query, and MS Excel.
